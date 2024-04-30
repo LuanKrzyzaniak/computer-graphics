@@ -1,0 +1,19 @@
+{
+  "name": "third-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.164.1",
+    "threex": "^1.0.0",
+    "vite": "^5.2.10"
+  },
+  "devDependencies": {
+    "@types/three": "^0.164.0"
+  }
+}
